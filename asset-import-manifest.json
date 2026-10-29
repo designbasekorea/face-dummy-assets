@@ -839,7 +839,7 @@
   "graphic-3d-avatar-94.png": {
     "source": "Non-binary_character_wearing_cre…_2K_202608271047 1.png",
     "sha256": "6812ee922a7ea3aa445b732b8bad8ca7f6ac91dec0208d95dbab5417220225ef",
-    "gender": "Non-binary",
+    "gender": "Female",
     "type": "3D Avatar",
     "previewSize": "100x133",
     "paidSize": "600x800",
@@ -1019,7 +1019,7 @@
   "graphic-3d-avatar-square-114.png": {
     "source": "generated-avatar-nonbinary-pink-undercut.png",
     "sha256": "617e69785ec128b37835b7a271087f236d5219143479d51981991eeba9f0cb57",
-    "gender": "Non-binary",
+    "gender": "Female",
     "type": "3D Avatar",
     "previewSize": "100x100",
     "paidSize": "600x600",
@@ -1091,7 +1091,7 @@
   "realistic-international-adult-8.png": {
     "source": "realistic-nonbinary-east-asian-silver.png",
     "sha256": "5675ea75ff120397ba25a49dda967d1c652828c108386361e1843081c66e34bd",
-    "gender": "Non-binary",
+    "gender": "Female",
     "type": "International Adult",
     "previewSize": "100x100",
     "paidSize": "600x600",
