@@ -1312,5 +1312,149 @@
     "type": "Korean Senior",
     "previewSize": "100x100",
     "paidSize": "600x600"
+  },
+  "realistic-international-child-1.png": {
+    "addedAt": "2026-10-29T08:26:49.106104+00:00",
+    "source": "01-male.png",
+    "sha256": "6a986ba8b43b6cec1a0e71751aea1cecfb16269650347435329b6c884aeeeae8",
+    "gender": "Male",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-child-2.png": {
+    "addedAt": "2026-10-29T08:26:49.279312+00:00",
+    "source": "02-female.png",
+    "sha256": "6b9aa25e6ef199f07b15f6e7e00c0da0793320d918725ced5835ceff314e59cb",
+    "gender": "Female",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-child-3.png": {
+    "addedAt": "2026-10-29T08:26:49.427810+00:00",
+    "source": "03-male.png",
+    "sha256": "1c66b60aefbbf2e691f7d31c50dde2e7eefcf530d8373a32febd6de6b716bd00",
+    "gender": "Male",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-child-4.png": {
+    "addedAt": "2026-10-29T08:26:49.614844+00:00",
+    "source": "04-female.png",
+    "sha256": "a36bcf936ec4e6b39a98d9821c87e63508f29de38b3931ccd7ad9f244dc520c0",
+    "gender": "Female",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-child-5.png": {
+    "addedAt": "2026-10-29T08:26:49.789573+00:00",
+    "source": "05-male.png",
+    "sha256": "e6ee370c9bf642cb1fc3e79461a8468c6b2a0b51ddc77f6be4c3273e915e4ed8",
+    "gender": "Male",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-child-6.png": {
+    "addedAt": "2026-10-29T08:26:49.950194+00:00",
+    "source": "06-female.png",
+    "sha256": "0414c3c0fa84e28d22996c161553e0c967b1ec178381d5ae293f244b2cc21c95",
+    "gender": "Female",
+    "type": "International Children",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-adult-9.png": {
+    "addedAt": "2026-10-29T08:26:50.377759+00:00",
+    "source": "07-female.png",
+    "sha256": "0b403899c92c12fbdfdd5c71c021b72fe822383b48c3ca803d7d643c57c93c20",
+    "gender": "Female",
+    "type": "International Adult",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-adult-10.png": {
+    "addedAt": "2026-10-29T08:26:50.539162+00:00",
+    "source": "08-male.png",
+    "sha256": "c7af5c26d08070fc536c666838acf0f13c3f20abb1d0de6270f2e257c4b24482",
+    "gender": "Male",
+    "type": "International Adult",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-adult-11.png": {
+    "addedAt": "2026-10-29T08:26:50.720162+00:00",
+    "source": "09-female.png",
+    "sha256": "7e4ed5f25f6af173a64c0ecf5df29e4dad1738804324088fdf0153a649741683",
+    "gender": "Female",
+    "type": "International Adult",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-adult-12.png": {
+    "addedAt": "2026-10-29T08:26:50.863939+00:00",
+    "source": "10-male.png",
+    "sha256": "8e04dce1af69461f3ba391943807d138c290d5150746f7a01ff69a9c31cef1cf",
+    "gender": "Male",
+    "type": "International Adult",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-1.png": {
+    "addedAt": "2026-10-29T08:26:51.235511+00:00",
+    "source": "11-female.png",
+    "sha256": "ff8a4d38b33221e5e58a49a7a4535e5973c1331de184ff45b8475f4eebd036a3",
+    "gender": "Female",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-2.png": {
+    "addedAt": "2026-10-29T08:26:51.394111+00:00",
+    "source": "12-male.png",
+    "sha256": "0b159a03e5ab65ecac079388be14df48cacb744ad41a12c930926ece477f66ed",
+    "gender": "Male",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-3.png": {
+    "addedAt": "2026-10-29T08:26:51.574662+00:00",
+    "source": "13-female.png",
+    "sha256": "abf96adc3b08a2012975fe0eb96209dd5a068bdfcbc8242806a8f59e447fae8d",
+    "gender": "Female",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-4.png": {
+    "addedAt": "2026-10-29T08:26:51.735708+00:00",
+    "source": "14-male.png",
+    "sha256": "dba6cc664f619b48d7872b2c7984ed646fe24c85a1d05aedd04500978a87c1a2",
+    "gender": "Male",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-5.png": {
+    "addedAt": "2026-10-29T08:26:51.929149+00:00",
+    "source": "15-female.png",
+    "sha256": "2a125cfcc16f63b1fe7669876b1693cec606e78379fc706d26d881dc81a337b1",
+    "gender": "Female",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
+  },
+  "realistic-international-senior-6.png": {
+    "addedAt": "2026-10-29T08:26:52.087262+00:00",
+    "source": "16-male.png",
+    "sha256": "1eb949b0eb0caab89a19502a1b17efcf82c80fde70e8b21e92376b8f9f926150",
+    "gender": "Male",
+    "type": "International Senior",
+    "previewSize": "100x100",
+    "paidSize": "600x600"
   }
 }

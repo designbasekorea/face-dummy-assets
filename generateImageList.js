@@ -17,7 +17,7 @@ const imageList = fs.readdirSync(assetsDir)
         }
         return 0;
     })
-    .map(file => `https://cdn.jsdelivr.net/gh/deccomm/ffdm/img/${file}`);
+    .map(file => `https://cdn.jsdelivr.net/gh/designbasekorea/face-dummy-assets@main/img/${file}`);
 
 // JSON 파일로 결과 저장
 fs.writeFileSync(outputFilePath, JSON.stringify(imageList, null, 2));
