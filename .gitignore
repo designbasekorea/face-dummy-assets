@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Python script to generate metadata CSV
+generateMetadataCSV.py
+
+# Ignore CSV file if you don't want to push it
+# imageMetadata.csv
+
+# Ignore other common files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all .numbers files (Apple Numbers files)
+*.numbers
+
+# Keep full-resolution source files local; publish the processed CDN variants.
+incoming/

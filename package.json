@@ -1,0 +1,14 @@
+{
+  "name": "face-dummy-assets",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Asset preparation scripts for the Face Dummy image CDN repository.",
+  "scripts": {
+    "assets:import": "node run-import.js",
+    "assets:import:avatar": "node run-import.js --source-dir incoming/3d-avatar --type \"3D Avatar\" --prefix graphic-3d-avatar-square --preview-size 100x100 --paid-size 600x600 --paid Y",
+    "assets:import:realistic": "node run-import.js --source-dir incoming/realistic --category \"Realistic\" --type \"International Adult\" --prefix realistic-international-adult --preview-size 100x100 --paid-size 600x600 --paid Y",
+    "assets:generate-list": "node generateImageList.js",
+    "assets:check": "node check-assets.js",
+    "assets:serve": "node serve-assets.js"
+  }
+}
