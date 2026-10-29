@@ -75,7 +75,7 @@ def load_csv(path: Path) -> list[dict[str, str]]:
 
 def write_csv(path: Path, rows: list[dict[str, str]]) -> None:
     with path.open("w", encoding="utf-8", newline="") as output:
-        writer = csv.DictWriter(output, fieldnames=METADATA_FIELDS, lineterminator="\r\n")
+        writer = csv.DictWriter(output, fieldnames=METADATA_FIELDS, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 
@@ -317,7 +317,7 @@ def main() -> int:
 
     if review_rows:
         with review_path.open("w", encoding="utf-8", newline="") as output:
-            writer = csv.DictWriter(output, fieldnames=["filename", "source", "gender"], lineterminator="\r\n")
+            writer = csv.DictWriter(output, fieldnames=["filename", "source", "gender"], lineterminator="\n")
             writer.writeheader()
             writer.writerows(review_rows)
     elif review_path.exists():
